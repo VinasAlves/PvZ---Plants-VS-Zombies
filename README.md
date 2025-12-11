@@ -47,9 +47,9 @@ Animações e imagens personalizadas
 
 ---------------------------------------------------------------------------------------------------------
 🛠️ Tecnologias Utilizadas
-Tecnologia	           Uso
 
-Python 3.12.10         Linguagem principal
-Pygame	               Controle do jogo, tela, eventos e sprites
-VSCode	               Desenvolvimento
-Git & GitHub	         Controle de versão
+
+Python 3.12.10    -    Linguagem principal
+Pygame	          -    Controle do jogo, tela, eventos e sprites
+VSCode	          -    Desenvolvimento
+Git & GitHub	    -    Controle de versão
